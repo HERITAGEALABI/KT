@@ -1,3 +1,3 @@
 # KT
-# Kromatech Landing Page
+# Kromtech Landing Page
 https://heritagealabi.github.io/KT/.
